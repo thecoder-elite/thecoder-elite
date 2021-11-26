@@ -12,7 +12,7 @@
 <a href="https://codepen.io/https://codepen.io/thecoderelite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/thecoderelite" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayaanfarooqui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayaanfarooqui/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/thecoder_elite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/thecoder_elite/" height="30" width="40" /></a>
-  <a href="https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank"><img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-resume-office-icongeek26-flat-icongeek26.png"/></a>
+  <a href="https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank"><img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-resume-office-icongeek26-flat-icongeek26.png" height="30" width="40/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
