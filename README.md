@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/thecoder-elite" target="blank"><img align="center" src="https://img.icons8.com/nolan/48/github.png" alt="Github" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayaanfarooqui/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ayaanfarooqui/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
 <a href="mailto:ayaan85321@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 <a href="https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank"><img align="center" alt="Resume" src="https://img.icons8.com/external-icongeek26-flat-icongeek26/48/000000/external-resume-office-icongeek26-flat-icongeek26.png"/></a>
 </p>
