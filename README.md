@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... AWS and Django
 - 👯 I’m looking to collaborate on ... Web Development Projects
 - 💬 Ask me about ... Anything related to Web Developement
-- 📄 Know about my experiences [https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-resume-office-prettycons-flat-prettycons.png](https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="blank"><img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-resume-office-icongeek26-flat-icongeek26.png"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
