@@ -1,17 +1,12 @@
-### Hi, I am Ayaan. 👋  I build 
-
-
-
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoder-elite&label=Profile%20views&color=0e75b6&style=flat" alt="thecoder-elite" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecoder-elite" alt="thecoder-elite" /></a> </p>
-
-- 📫 How to reach me **ayaan85321@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+### About me:
+- I'm currently working with ... React.js
+- 🌱 I’m currently learning ... AWS and Django
+- 👯 I’m looking to collaborate on ... Web Development Projects
+- 💬 Ask me about ... Anything related to Web Developement
+- 📄 Know about my experiences [https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-resume-office-prettycons-flat-prettycons.png](https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,16 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecoder-elite&show_icons=true&locale=en" alt="thecoder-elite" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoder-elite&" alt="thecoder-elite" /></p>
-
-
-
-
-
-
-### Here's a few things about me:
-- 🔭 I’m currently a ... FrontEnd Engineer
-- I'm currently working with ... React.js
-- 🌱 I’m currently learning ... AWS and Django
-- 📫 How to reach me: ... [![Github](https://img.shields.io/badge/-Github-444?&logo=Github&logoColor=white)](https://github.com/thecoder-elite) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayaanfarooqui/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:ayaan85321@gmail.com)
-- 👯 I’m looking to collaborate on ... Web Development Projects
-- 💬 Ask me about ... Anything related to Web Developement
