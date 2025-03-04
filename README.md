@@ -11,11 +11,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="Ayaan's Email ID" />
     </a>
-  &nbsp;
-    <a href="https://www.canva.com/design/DAESdCetUdk/_CMS-fuSjwgg2mnbWZuWJA/view?utm_content=DAESdCetUdk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
-        target="blank">
-        <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=canva" alt="Ayaan's Resume" />
-    </a>
 </div>
 <h3 align="left">About me:</h3>
 <hr />
